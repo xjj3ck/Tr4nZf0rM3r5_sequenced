@@ -1,5 +1,6 @@
 # Tr4nZf0rM3r5_sequenced
 
+The factory preset works instantly — toggle visibility and it spins. Everything else is optional.
 A timed transformation-sequencer **video filter** for [OBS Studio](https://obsproject.com).
 Attach it to any source (typically an Image source) and it runs a chain of GPU
 transformations — rotate, zoom, scale, flip — with per-step durations, then
