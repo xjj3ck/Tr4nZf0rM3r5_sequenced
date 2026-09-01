@@ -1,6 +1,5 @@
 # Tr4nZf0rM3r5_sequenced
-
-The factory preset works instantly — toggle visibility and it spins. Everything else is optional.
+Everything else is optional.
 A timed transformation-sequencer **video filter** for [OBS Studio](https://obsproject.com).
 Attach it to any source (typically an Image source) and it runs a chain of GPU
 transformations — rotate, zoom, scale, flip — with per-step durations, then
@@ -11,6 +10,7 @@ Built for streamers who fire stingers from an external controller (TouchPortal,
 Stream Deck, hotkeys…): one visibility toggle = one full animation, always
 re-armed.
 
+The factory preset works instantly — toggle visibility and it spins. 
 ---
 ### Get the Windows Installer
 Want the ready-to-install binary without building from source?
