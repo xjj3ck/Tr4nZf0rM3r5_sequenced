@@ -11,6 +11,7 @@ Stream Deck, hotkeys…): one visibility toggle = one full animation, always
 re-armed.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/gXX72yIGDcI/0.jpg)](http://www.youtube.com/watch?v=gXX72yIGDcI "Video Title")
+<br>
 Click the image above to watch the demo video.
 
 ---
