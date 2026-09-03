@@ -10,6 +10,8 @@ Built for streamers who fire stingers from an external controller (TouchPortal,
 Stream Deck, hotkeys…): one visibility toggle = one full animation, always
 re-armed.
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/gXX72yIGDcI/0.jpg)](http://www.youtube.com/watch?v=gXX72yIGDcI "Video Title")
+
 ---
 ### 🚀 Get the Windows Installer
 Want the ready-to-install binary without building from source?
